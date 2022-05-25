@@ -4,28 +4,58 @@
 			"title": "Data Sources",
 			"data": [
 				{
-					"id": 1,
-					"source": "Conferences#CIMT#2021"
+					"filterName": "Conferences",
+					"filterData": [
+						{
+							"id": 1,
+							"source": "CIMT#2021",
+							"value": {
+								"name": "CIMT",
+								"year": "2021"
+							}
+						},
+						{
+							"id": 2,
+							"source": "CIMT#2022",
+							"value": {
+								"name": "CIMT",
+								"year": "2022"
+							}
+						},
+						{
+							"id": 3,
+							"source": "ASCO#2019",
+							"value": {
+								"name": "ASCO",
+								"year": "2019"
+							}
+						},
+						{
+							"id": 4,
+							"source": "ASCO#2020",
+							"value": {
+								"name": "ASCO",
+								"year": "2020"
+							}
+						}
+					]
 				},
 				{
-					"id": 2,
-					"source": "Conferences#CIMT#2022"
-				},
-				{
-					"id": 3,
-					"source": "Conferences#ASCO#2021"
-				},
-				{
-					"id": 4,
-					"source": "Conferences#ASCO#2020"
-				},
-				{
-					"id": 1,
-					"source": "PharmaOrganization#Pipeline"
-				},
-				{
-					"id": 2,
-					"source": "PharmaOrganization#Technology"
+					"filterName": "Pharma Organization",
+					"filterData": [
+						{
+							"id": 5,
+							"source": "Pipeline"
+						},
+						{
+							"id": 6,
+							"source": "Technology"
+						}
+					],
+					"filterRange": {
+						"first": "01-01-2022",
+						"last": "01-02-2022"
+					}
 				}
 			]
 		},
