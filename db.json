@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Data Sources",
+		"data": [
+			{
+				"id": 1,
+				"source": "Conferences#CIMT#2021"
+			},
+			{
+				"id": 2,
+				"source": "Conferences#CIMT#2022"
+			},
+			{
+				"id": 3,
+				"source": "Conferences#ASCO#2021"
+			},
+			{
+				"id": 4,
+				"source": "Conferences#ASCO#2020"
+			},
+			{
+				"id": 1,
+				"source": "PharmaOrganization#Pipeline"
+			},
+			{
+				"id": 2,
+				"source": "PharmaOrganization#Technology"
+			}
+		]
+	},
+	{
+		"title": "Data set",
+		"data": [
+			{
+				"title": "ADC",
+				"id": "1"
+			},
+			{
+				"title": "Checkpoint",
+				"id": "3"
+			}
+		]
+	}
+]
