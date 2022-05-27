@@ -1,69 +1,71 @@
-[
-  {
-    "title": "Data Sources",
-    "data": [
-      {
-        "filterName": "Conferences",
-        "filterData": [
-          {
-            "source": "CIMT#2021",
-            "value": {
-              "name": "CIMT",
-              "year": "2021"
-            }
-          },
-          {
-            "source": "CIMT#2022",
-            "value": {
-              "name": "CIMT",
-              "year": "2022"
-            }
-          },
-          {
-            "source": "ASCO#2019",
-            "value": {
-              "name": "ASCO",
-              "year": "2019"
-            }
-          },
-          {
-            "source": "ASCO#2020",
-            "value": {
-              "name": "ASCO",
-              "year": "2020"
-            }
-          }
-        ],
-        "latestYear": "2022"
-      },
-      {
-        "filterName": "Pharma Organization",
-        "filterData": [
-          {
-            "source": "Pipeline"
-          },
-          {
-            "source": "Technology"
-          }
-        ],
-        "filterRange": {
-          "first": "01-01-2022",
-          "last": "01-02-2022"
-        }
-      }
-    ]
-  },
-  {
-    "title": "Data set",
-    "data": [
-      {
-        "title": "ADC",
-        "id": "1"
-      },
-      {
-        "title": "Checkpoint",
-        "id": "3"
-      }
-    ]
-  }
-]
+{
+	"post": [
+		{
+			"title": "Data Sources",
+			"data": [
+				{
+					"filterName": "Conferences",
+					"filterData": [
+						{
+							"source": "CIMT#2021",
+							"value": {
+								"name": "CIMT",
+								"year": "2021"
+							}
+						},
+						{
+							"source": "CIMT#2022",
+							"value": {
+								"name": "CIMT",
+								"year": "2022"
+							}
+						},
+						{
+							"source": "ASCO#2019",
+							"value": {
+								"name": "ASCO",
+								"year": "2019"
+							}
+						},
+						{
+							"source": "ASCO#2020",
+							"value": {
+								"name": "ASCO",
+								"year": "2020"
+							}
+						}
+					],
+					"latestYear": "2022"
+				},
+				{
+					"filterName": "Pharma Organization",
+					"filterData": [
+						{
+							"source": "Pipeline"
+						},
+						{
+							"source": "Technology"
+						}
+					],
+					"filterRange": {
+						"first": "01-01-2022",
+						"last": "01-02-2022"
+					}
+				}
+			]
+		},
+		{
+			"title": "Data set",
+			"data": [
+				{
+					"title": "ADC",
+					"id": "1"
+				},
+				{
+					"title": "Checkpoint",
+					"id": "3"
+				}
+			]
+		}
+	]
+}
