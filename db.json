@@ -1,5 +1,5 @@
 {
-	"posts": [
+	"post": [
 		{
 			"title": "Data Sources",
 			"data": [
@@ -11,28 +11,32 @@
 							"value": {
 								"name": "CIMT",
 								"year": "2021"
-							}
+							},
+							"selected": false
 						},
 						{
 							"source": "CIMT#2022",
 							"value": {
 								"name": "CIMT",
 								"year": "2022"
-							}
+							},
+							"selected": false
 						},
 						{
 							"source": "ASCO#2019",
 							"value": {
 								"name": "ASCO",
 								"year": "2019"
-							}
+							},
+							"selected": false
 						},
 						{
 							"source": "ASCO#2020",
 							"value": {
 								"name": "ASCO",
 								"year": "2020"
-							}
+							},
+							"selected": false
 						}
 					],
 					"latestYear": "2022"
@@ -41,10 +45,12 @@
 					"filterName": "Pharma Organization",
 					"filterData": [
 						{
-							"source": "Pipeline"
+							"source": "Pipeline",
+							"selected": false
 						},
 						{
-							"source": "Technology"
+							"source": "Technology",
+							"selected": false
 						}
 					],
 					"filterRange": {
