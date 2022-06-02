@@ -5,6 +5,8 @@
 			"data": [
 				{
 					"filterName": "Conferences",
+					"isSelected": true,
+					"latestYear": "2022",
 					"filterData": [
 						{
 							"source": "CIMT#2021",
@@ -38,11 +40,12 @@
 							,
 							"selected": false
 						}
-					],
-					"latestYear": "2022"
+					]
+					
 				},
 				{
 					"filterName": "Pharma Organization",
+					"isSelected": true,
 					"filterData": [
 						{
 							"source": "Pipeline",
