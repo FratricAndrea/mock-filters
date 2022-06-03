@@ -5,47 +5,40 @@
 			"data": [
 				{
 					"filterName": "Conferences",
-					"isSelected": true,
+					"isFilterSelected": true,
 					"latestYear": "2022",
+					"isDefaultSelected": true,
 					"filterData": [
 						{
 							"source": "CIMT#2021",
-							
-								"name": "CIMT",
-								"year": "2021"
-							,
+							"name": "CIMT",
+							"year": "2021",
 							"selected": false
 						},
 						{
 							"source": "CIMT#2022",
-						
-								"name": "CIMT",
-								"year": "2022"
-							,
+							"name": "CIMT",
+							"year": "2022",
 							"selected": false
 						},
 						{
 							"source": "ASCO#2019",
-						
-								"name": "ASCO",
-								"year": "2019"
-							,
+							"name": "ASCO",
+							"year": "2019",
 							"selected": false
 						},
 						{
 							"source": "ASCO#2020",
-						
-								"name": "ASCO",
-								"year": "2020"
-							,
+							"name": "ASCO",
+							"year": "2020",
 							"selected": false
 						}
 					]
-					
 				},
 				{
-					"filterName": "Pharma Organization",
-					"isSelected": true,
+					"filterName": "Pharma Organizations",
+					"isFilterSelected": true,
+					"isDefaultSelected": true,
 					"filterData": [
 						{
 							"source": "Pipeline",
