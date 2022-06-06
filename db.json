@@ -10,25 +10,21 @@
 					"isDefaultSelected": true,
 					"filterData": [
 						{
-							"source": "CIMT#2021",
 							"name": "CIMT",
 							"year": "2021",
 							"selected": false
 						},
 						{
-							"source": "CIMT#2022",
 							"name": "CIMT",
 							"year": "2022",
 							"selected": false
 						},
 						{
-							"source": "ASCO#2019",
 							"name": "ASCO",
 							"year": "2019",
 							"selected": false
 						},
 						{
-							"source": "ASCO#2020",
 							"name": "ASCO",
 							"year": "2020",
 							"selected": false
@@ -41,11 +37,11 @@
 					"isDefaultSelected": true,
 					"filterData": [
 						{
-							"source": "Pipeline",
+							"name": "Pipeline",
 							"selected": false
 						},
 						{
-							"source": "Technology",
+							"name": "Technology",
 							"selected": false
 						}
 					],
@@ -60,11 +56,11 @@
 			"title": "Data set",
 			"data": [
 				{
-					"title": "ADC",
+					"name": "ADC",
 					"id": "1"
 				},
 				{
-					"title": "Checkpoint",
+					"name": "Checkpoint",
 					"id": "3"
 				}
 			]
