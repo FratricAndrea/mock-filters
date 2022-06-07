@@ -57,55 +57,69 @@
 			"data": [
 				{
 					"id": 1,
-					"name": "ADC"
+					"name": "ADC",
+					"selected": false
 				},
 				{
 					"id": 2,
-					"name": "Bispecific"
+					"name": "Bispecific",
+					"selected": false
 				},
 				{
 					"id": 3,
-					"name": "Checkpoint"
+					"name": "Checkpoint",
+					"selected": false
 				},
+				
 				{
 					"id": 4,
-					"name": "Adoptive Cell"
+					"name": "Adoptive Cell",
+					"selected": false
 				},
 				{
 					"id": 5,
-					"name": "Gene Therapy"
+					"name": "Gene Therapy",
+					"selected": false
 				},
 				{
 					"id": 6,
-					"name": "Oncolytic Viruses"
+					"name": "Oncolytic Viruses",
+					"selected": false
 				},
 				{
 					"id": 7,
-					"name": "V3"
+					"name": "V3",
+					"selected": false
 				},
 				{
 					"id": 8,
-					"name": "DDR"
+					"name": "DDR",
+					"selected": false
 				},
 				{
 					"id": 9,
-					"name": "TPD"
+					"name": "TPD",
+					"selected": false
 				},
 				{
 					"id": 10,
-					"name": "Cancer Vaccine"
+					"name": "Cancer Vaccine",
+					"selected": false
 				},
 				{
 					"id": 11,
-					"name": "Cytokine"
+					"name": "Cytokine",
+					"selected": false
 				},
 				{
 					"id": 12,
-					"name": "RNA"
+					"name": "RNA",
+					"selected": false
 				},
 				{
 					"id": 13,
-					"name": "Microbiome"
+					"name": "Microbiome",
+					"selected": false
 				}
 			]
 		}
