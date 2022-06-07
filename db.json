@@ -5,9 +5,9 @@
 			"data": [
 				{
 					"filterName": "Conferences",
-					"isFilterSelected": true,
+					"isFilterSelected": false,
 					"latestYear": "2022",
-					"isDefaultSelected": true,
+					"isDefaultSelected": false,
 					"filterData": [
 						{
 							"name": "CIMT",
