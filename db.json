@@ -56,12 +56,56 @@
 			"title": "Data set",
 			"data": [
 				{
-					"name": "ADC",
-					"id": "1"
+					"id": 1,
+					"name": "ADC"
 				},
 				{
-					"name": "Checkpoint",
-					"id": "3"
+					"id": 2,
+					"name": "Bispecific"
+				},
+				{
+					"id": 3,
+					"name": "Checkpoint"
+				},
+				{
+					"id": 4,
+					"name": "Adoptive Cell"
+				},
+				{
+					"id": 5,
+					"name": "Gene Therapy"
+				},
+				{
+					"id": 6,
+					"name": "Oncolytic Viruses"
+				},
+				{
+					"id": 7,
+					"name": "V3"
+				},
+				{
+					"id": 8,
+					"name": "DDR"
+				},
+				{
+					"id": 9,
+					"name": "TPD"
+				},
+				{
+					"id": 10,
+					"name": "Cancer Vaccine"
+				},
+				{
+					"id": 11,
+					"name": "Cytokine"
+				},
+				{
+					"id": 12,
+					"name": "RNA"
+				},
+				{
+					"id": 13,
+					"name": "Microbiome"
 				}
 			]
 		}
