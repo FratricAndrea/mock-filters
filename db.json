@@ -122,6 +122,26 @@
 					"selected": false
 				}
 			]
+		},
+			{
+			"title": "Relevance status",
+			"data": [
+				{
+					"id": 1,
+					"name": "Accepted",
+					"selected": false
+				},
+				{
+					"id": 2,
+					"name": "Rejected",
+					"selected": false
+				},
+				{
+					"id": 3,
+					"name": "Not Yet Screened",
+					"selected": false
+				}
+			]
 		}
 	]
 }
