@@ -1,147 +1,191 @@
 {
 	"posts": [
-		{
-			"title": "Data Sources",
-			"data": [
-				{
-					"filterName": "Conferences",
-					"isFilterSelected": false,
-					"latestYear": "2022",
-					"isDefaultSelected": false,
-					"filterData": [
-						{
-							"name": "CIMT",
-							"year": "2021",
-							"selected": false
-						},
-						{
-							"name": "CIMT",
-							"year": "2022",
-							"selected": false
-						},
-						{
-							"name": "ASCO",
-							"year": "2019",
-							"selected": false
-						},
-						{
-							"name": "ASCO",
-							"year": "2020",
-							"selected": false
-						}
-					]
-				},
-				{
-					"filterName": "Pharma Organizations",
-					"isFilterSelected": true,
-					"isDefaultSelected": true,
-					"filterData": [
-						{
-							"name": "Pipeline",
-							"selected": false
-						},
-						{
-							"name": "Technology",
-							"selected": false
-						}
-					],
-					"filterRange": {
-						"first": "04/25/2022",
-						"last": "05/10/2022"
-					}
-				}
-			]
-		},
-		{
-			"title": "Data set",
-			"data": [
-				{
-					"id": 1,
-					"name": "ADC",
-					"selected": false
-				},
-				{
-					"id": 2,
-					"name": "Bispecific",
-					"selected": false
-				},
-				{
-					"id": 3,
-					"name": "Checkpoint",
-					"selected": false
-				},
-				
-				{
-					"id": 4,
-					"name": "Adoptive Cell",
-					"selected": false
-				},
-				{
-					"id": 5,
-					"name": "Gene Therapy",
-					"selected": false
-				},
-				{
-					"id": 6,
-					"name": "Oncolytic Viruses",
-					"selected": false
-				},
-				{
-					"id": 7,
-					"name": "V3",
-					"selected": false
-				},
-				{
-					"id": 8,
-					"name": "DDR",
-					"selected": false
-				},
-				{
-					"id": 9,
-					"name": "TPD",
-					"selected": false
-				},
-				{
-					"id": 10,
-					"name": "Cancer Vaccine",
-					"selected": false
-				},
-				{
-					"id": 11,
-					"name": "Cytokine",
-					"selected": false
-				},
-				{
-					"id": 12,
-					"name": "RNA",
-					"selected": false
-				},
-				{
-					"id": 13,
-					"name": "Microbiome",
-					"selected": false
-				}
-			]
-		},
+	{
+		"title": "Data Sources",
+		"data": [
 			{
-			"title": "Relevance status",
-			"data": [
-				{
-					"id": 1,
-					"name": "Accepted",
-					"selected": false
-				},
-				{
-					"id": 2,
-					"name": "Rejected",
-					"selected": false
-				},
-				{
-					"id": 3,
-					"name": "Not Yet Screened",
-					"selected": false
+				"filterName": "Conferences",
+				"isFilterSelected": false,
+				"latestYear": "2022",
+				"isDefaultSelected": false,
+				"filterData": [
+					{
+						"name": "CIMT",
+						"year": "2021",
+						"selected": false
+					},
+					{
+						"name": "CIMT",
+						"year": "2022",
+						"selected": false
+					},
+					{
+						"name": "ASCO",
+						"year": "2019",
+						"selected": false
+					},
+					{
+						"name": "ASCO",
+						"year": "2020",
+						"selected": false
+					}
+				]
+			},
+			{
+				"filterName": "Pharma Organizations",
+				"isFilterSelected": true,
+				"isDefaultSelected": true,
+				"filterData": [
+					{
+						"name": "Pipeline",
+						"selected": false
+					},
+					{
+						"name": "Technology",
+						"selected": false
+					}
+				],
+				"filterRange": {
+					"first": "04/25/2022",
+					"last": "05/10/2022"
 				}
-			]
-		}
-	]
+			},
+			{
+				"filterName": "RSS Feeds",
+				"isFilterSelected": true,
+				"isDefaultSelected": true,
+				"filterData": [
+					{
+						"name": "Google Alerts",
+						"selected": false
+					},
+					{
+						"name": "PubMed RSS Feed",
+						"selected": false
+					},
+					{
+						"name": "Press Releases RSS Feed",
+						"selected": false,
+						"data": [
+							{
+								"name": "PRWeb",
+								"selected": false
+							},
+							{
+								"name": "PRNewsWire",
+								"selected": false
+							},
+							{
+								"name": "BusinessWire Health",
+								"selected": false
+							},
+							{
+								"name": "Globenewswire",
+								"selected": false
+							}
+						]
+					},
+					{
+						"name": "Regulatory Organisation RSS Feed",
+						"selected": false
+					}
+				],
+				"filterRange": {
+					"first": "05/27/2022",
+					"last": "06/09/2022"
+				}
+			}
+		]
+	},
+	{
+		"title": "Data set",
+		"data": [
+			{
+				"id": 1,
+				"name": "ADC",
+				"selected": false
+			},
+			{
+				"id": 2,
+				"name": "Bispecific",
+				"selected": false
+			},
+			{
+				"id": 3,
+				"name": "Checkpoint",
+				"selected": false
+			},
+			{
+				"id": 4,
+				"name": "Adoptive Cell",
+				"selected": false
+			},
+			{
+				"id": 5,
+				"name": "Gene Therapy",
+				"selected": false
+			},
+			{
+				"id": 6,
+				"name": "Oncolytic Viruses",
+				"selected": false
+			},
+			{
+				"id": 7,
+				"name": "V3",
+				"selected": false
+			},
+			{
+				"id": 8,
+				"name": "DDR",
+				"selected": false
+			},
+			{
+				"id": 9,
+				"name": "TPD",
+				"selected": false
+			},
+			{
+				"id": 10,
+				"name": "Cancer Vaccine",
+				"selected": false
+			},
+			{
+				"id": 11,
+				"name": "Cytokine",
+				"selected": false
+			},
+			{
+				"id": 12,
+				"name": "RNA",
+				"selected": false
+			},
+			{
+				"id": 13,
+				"name": "Microbiome",
+				"selected": false
+			}
+		]
+	},
+	{
+		"title": "Relevance status",
+		"data": [
+			{
+				"id": 1,
+				"name": "Accepted",
+				"selected": false
+			},
+			{
+				"id": 2,
+				"name": "Rejected",
+				"selected": false
+			},
+			{
+				"id": 3,
+				"name": "Not Yet Screened",
+				"selected": false
+			}
+		]
+	}
+]
 }
