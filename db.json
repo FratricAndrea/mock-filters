@@ -60,11 +60,11 @@
 						"selected": false
 					},
 					{
-						"name": "PubMed RSS Feed",
+						"name": "PubMed",
 						"selected": false
 					},
 					{
-						"name": "Press Releases RSS Feed",
+						"name": "Press Releases",
 						"selected": false,
 						"data": [
 							{
@@ -86,7 +86,7 @@
 						]
 					},
 					{
-						"name": "Regulatory Organisation RSS Feed",
+						"name": "Regulatory Organisation",
 						"selected": false
 					}
 				],
