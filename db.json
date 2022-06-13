@@ -1,5 +1,5 @@
 {
-	"posts": [
+	"posts":[
 	{
 		"title": "Data Sources",
 		"data": [
@@ -28,6 +28,37 @@
 						"name": "ASCO",
 						"year": "2020",
 						"selected": false
+					}
+				]
+			},
+			{
+				"filterName": "Trial Registries",
+				"isFilterSelected": true,
+				"isDefaultSelected": true,
+				"filterData": [
+					{
+						"name": "CTGov",
+						"selected": false,
+						"data": [
+							{
+								"name": "Refresh Date (Ref Tracker)",
+								"first": "05/31/2022",
+								"last": "06/13/2022"
+							},
+							{
+								"name": "Last Update Posted (ct.gov)",
+								"first": "05/30/2022",
+								"last": "06/12/2022"
+							},
+							{
+								"name": "Yes",
+								"selected": false
+							},
+							{
+								"name": "No",
+								"selected": false
+							}
+						]
 					}
 				]
 			},
@@ -94,38 +125,6 @@
 					"first": "05/27/2022",
 					"last": "06/09/2022"
 				}
-			}
-		]
-	},
-	{
-		"filterName": "Trial Registries",
-		"isFilterSelected": true,
-		"isDefaultSelected": true,
-		"filterData": [
-			{
-				"name": "CTGov",
-				"selected": false,
-				"data": [
-					{
-						"name": "Refresh Date (Ref Tracker)",
-						"first": "05/31/2022",
-						"last": "06/13/2022"
-					},
-										{
-						"name": "Last Update Posted (ct.gov)",
-						"first": "05/30/2022",
-						"last": "06/12/2022"
-					},
-					{
-						"name": "Yes",
-						"selected": false
-					},
-					{
-						"name": "No",
-						"selected": false
-					}
-					
-				]
 			}
 		]
 	},
