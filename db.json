@@ -98,6 +98,38 @@
 		]
 	},
 	{
+		"filterName": "Trial Registries",
+		"isFilterSelected": true,
+		"isDefaultSelected": true,
+		"filterData": [
+			{
+				"name": "CTGov",
+				"selected": false,
+				"data": [
+					{
+						"name": "Refresh Date (Ref Tracker)",
+						"first": "05/31/2022",
+						"last": "06/13/2022"
+					},
+										{
+						"name": "Last Update Posted (ct.gov)",
+						"first": "05/30/2022",
+						"last": "06/12/2022"
+					},
+					{
+						"name": "Yes",
+						"selected": false
+					},
+					{
+						"name": "No",
+						"selected": false
+					}
+					
+				]
+			}
+		]
+	},
+	{
 		"title": "Data set",
 		"data": [
 			{
@@ -181,7 +213,7 @@
 				"selected": false
 			},
 			{
-				"id": 0,
+				"id": 3,
 				"name": "Not Yet Screened",
 				"selected": false
 			}
