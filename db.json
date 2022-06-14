@@ -39,17 +39,17 @@
 					{
 						"name": "CTGov",
 						"selected": false,
+						"refreshDatePickerData": {
+							"name": "Refresh Date (Ref Tracker)",
+							"first": "05/31/2022",
+							"last": "06/13/2022"
+						},
+						"lastDatePickerData": {
+							"name": "Last Update Posted (ct.gov)",
+							"first": "05/30/2022",
+							"last": "06/12/2022"
+						},
 						"data": [
-							{
-								"name": "Refresh Date (Ref Tracker)",
-								"first": "05/31/2022",
-								"last": "06/13/2022"
-							},
-							{
-								"name": "Last Update Posted (ct.gov)",
-								"first": "05/30/2022",
-								"last": "06/12/2022"
-							},
 							{
 								"name": "Yes",
 								"selected": false
