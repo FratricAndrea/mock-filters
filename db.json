@@ -41,13 +41,13 @@
 						"selected": false,
 						"refreshDatePickerData": {
 							"name": "Refresh Date (Ref Tracker)",
-							"first": "05/31/2022",
-							"last": "06/13/2022"
+							"first": "2022-05-31",
+							"last": "2022-06-13"
 						},
 						"updateDatePickerData": {
 							"name": "Last Update Posted (ct.gov)",
-							"first": "05/30/2022",
-							"last": "06/12/2022"
+							"first": "2022-05-30",
+							"last": "2022-06-12"
 						},
 						"data": [
 							{
@@ -77,8 +77,8 @@
 					}
 				],
 				"filterRange": {
-					"first": "04/25/2022",
-					"last": "05/10/2022"
+					"first": "2022-04-25",
+					"last": "2022-05-10"
 				}
 			},
 			{
@@ -122,8 +122,8 @@
 					}
 				],
 				"filterRange": {
-					"first": "05/27/2022",
-					"last": "06/09/2022"
+					"first": "2022-05-27",
+					"last": "2022-06-09"
 				}
 			}
 		]
